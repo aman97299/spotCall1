@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645066024971",
+    "project_id": "carappketan",
+    "storage_bucket": "carappketan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645066024971:android:3a09c6c0afeb13141b7f0e",
+        "android_client_info": {
+          "package_name": "com.example.carappketan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCASkiylxDIupeG2WKVJdfHeDBKlhF9Ygo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<!-- button_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#0C6710" /> <!-- Dark green background color -->
+    <corners android:radius="8dp" /> <!-- Rounded corners -->
+    <padding
+        android:bottom="4dp"
+        android:left="4dp"
+        android:right="4dp"
+        android:top="4dp" /> <!-- Padding for 3D effect -->
+</shape>
